@@ -5,7 +5,7 @@
 Nesse cronograma detalho informações de quantas horas irei dedicar ao estudo do bootcamp a cada dia
 da semana.
 
-[<img src="./CronogramaSemanal.png">](Link para o cronograma semanal)
+[<img src="./assets/CronogramaSemanal.png">](Link para o cronograma semanal)
 
 ## Cronograma de conteúdo
 
@@ -14,6 +14,4 @@ e finalizar um estudo. Tento prever também os desafio ao longo do bootcamp.
 
 Fiz a separação por níveis conforme existe dentro da plataforma: Nível 01, Nível 02 e assim por diante.
 
-[<img src="./CronogramaConteudo.png">](Link para o cronograma de conteúdo)
-
-
+[<img src="./assets/CronogramaConteudo.png">](Link para o cronograma de conteúdo)
